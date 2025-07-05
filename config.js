@@ -17,7 +17,7 @@ const defaultConfig = {
   ALIVE_MSG: "*Hello👋 Sαɳα Is Alive Now💀*", // Change alive msg from here
   OPENAI_API_KEY: "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",// Add OPENAI API key here
   GEMINI_API_KEY: "AIzaSyB51tx6CdRun4m3CnpGbIrP3fwl4NeIT-g", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
+  REMOVE_BG_API_KEY:"yaii32F8ACFpwU26HcwnHm7u", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
   BOT_OWNER: "94704955243", // Replace your bot owner number here with 94(country code)
   ownerNumber: ["94704955243"], // Replace your bot owner number here (same as bot owner number)
